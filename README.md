@@ -10,3 +10,8 @@ GitHub is a free service, and the hosting is free.
 Your site is under your control with no adverts added.
 It's easy to take a backup of the site and store it on your computer.
 It's easy to update the website online, or from your computer.
+
+Some possibly useful websites on this topic:
+- <https://mmistakes.github.io/so-simple-theme/>
+- <https://jekyllrb.com/docs/posts/>
+- <http://kbroman.org/simple_site/>
